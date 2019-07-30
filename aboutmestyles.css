@@ -1,0 +1,35 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    font-size: medium;
+    background-color: cornflowerblue;
+    margin: 100px 100px 100px 100px;
+    
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
+}
+
+#seventeen {
+    font-weight: 200;
+    color: bisque;
+    background-color: darkmagenta
+}
+
+#birthday {
+    font-weight: 200;
+    color: bisque;
+    background-color: crimson
+    
+}
+
+#state {
+    font-weight: 200;
+    color: bisque;
+    background-color: darkslateblue
+}
+#singer {
+    font-weight: 300;
+    color: black;
+    background-color: hotpink
+}
